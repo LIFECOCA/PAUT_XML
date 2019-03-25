@@ -11,111 +11,9 @@
         <RecvFocusStart>1</RecvFocusStart>
         <RecvFocusEnd>10</RecvFocusEnd>
         <FocalType>3</FocalType>
-        <Channel1>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel1>
-        <Channel2>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel2>
-        <Channel3>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel3>
-        <Channel4>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel4>
-        <Channel5>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel5>
-        <Channel6>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel6>
-        <Channel7>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel7>
-        <Channel8>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel8>
-        <Channel9>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel9>
-        <Channel10>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel10>
-        <Channel11>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel11>
-        <Channel12>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel12>
-        <Channel13>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel13>
-        <Channel14>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel14>
-        <Channel15>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel15>
+        <ScanAngle>10.000000 10.000000 10.000000 10.000000 10.000000 10.000000 10.000000 10.000000 10.000000 10.000000 10.000000 10.000000 10.000000 10.000000 10.000000</ScanAngle>
+        <CenterElement>16 16 16 16 16 16 16 16 16 16 16 16 16 16 16</CenterElement>
+        <WedgeDelay>0.300000 0.300000 0.300000 0.300000 0.300000 0.300000 0.300000 0.300000 0.300000 0.300000 0.300000 0.300000 0.300000 0.300000 0.300000</WedgeDelay>
     </Group1>
     <Group2>
         <ChannelNum>30</ChannelNum>
@@ -127,216 +25,9 @@
         <RecvFocusStart>1</RecvFocusStart>
         <RecvFocusEnd>10</RecvFocusEnd>
         <FocalType>3</FocalType>
-        <Channel1>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel1>
-        <Channel2>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel2>
-        <Channel3>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel3>
-        <Channel4>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel4>
-        <Channel5>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel5>
-        <Channel6>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel6>
-        <Channel7>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel7>
-        <Channel8>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel8>
-        <Channel9>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel9>
-        <Channel10>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel10>
-        <Channel11>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel11>
-        <Channel12>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel12>
-        <Channel13>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel13>
-        <Channel14>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel14>
-        <Channel15>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel15>
-        <Channel16>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel16>
-        <Channel17>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel17>
-        <Channel18>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel18>
-        <Channel19>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel19>
-        <Channel20>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel20>
-        <Channel21>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel21>
-        <Channel22>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel22>
-        <Channel23>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel23>
-        <Channel24>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel24>
-        <Channel25>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel25>
-        <Channel26>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel26>
-        <Channel27>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel27>
-        <Channel28>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel28>
-        <Channel29>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel29>
-        <Channel30>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel30>
+        <ScanAngle>30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000 30.000000</ScanAngle>
+        <CenterElement>32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32 32</CenterElement>
+        <WedgeDelay>0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000 0.400000</WedgeDelay>
     </Group2>
     <Group3>
         <ChannelNum>20</ChannelNum>
@@ -348,145 +39,919 @@
         <RecvFocusStart>1</RecvFocusStart>
         <RecvFocusEnd>10</RecvFocusEnd>
         <FocalType>3</FocalType>
-        <Channel1>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel1>
-        <Channel2>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel2>
-        <Channel3>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel3>
-        <Channel4>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel4>
-        <Channel5>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel5>
-        <Channel6>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel6>
-        <Channel7>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel7>
-        <Channel8>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel8>
-        <Channel9>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel9>
-        <Channel10>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel10>
-        <Channel11>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel11>
-        <Channel12>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel12>
-        <Channel13>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel13>
-        <Channel14>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel14>
-        <Channel15>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel15>
-        <Channel16>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel16>
-        <Channel17>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel17>
-        <Channel18>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel18>
-        <Channel19>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel19>
-        <Channel20>
-            <ScanAngle>10</ScanAngle>
-            <CenterElement>5.200000</CenterElement>
-            <WedgeDelay>3.300000</WedgeDelay>
-            <ACGDelay>4.400000</ACGDelay>
-            <ACGGain>5.500000</ACGGain>
-        </Channel20>
+        <ScanAngle>40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000 40.000000</ScanAngle>
+        <CenterElement>64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64 64</CenterElement>
+        <WedgeDelay>0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000 0.500000</WedgeDelay>
     </Group3>
+    <ShotNum>91</ShotNum>
+    <Shot1>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot1>
+    <Shot2>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot2>
+    <Shot3>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot3>
+    <Shot4>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot4>
+    <Shot5>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot5>
+    <Shot6>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot6>
+    <Shot7>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot7>
+    <Shot8>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot8>
+    <Shot9>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot9>
+    <Shot10>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot10>
+    <Shot11>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot11>
+    <Shot12>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot12>
+    <Shot13>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot13>
+    <Shot14>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot14>
+    <Shot15>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot15>
+    <Shot16>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot16>
+    <Shot17>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot17>
+    <Shot18>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot18>
+    <Shot19>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot19>
+    <Shot20>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot20>
+    <Shot21>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot21>
+    <Shot22>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot22>
+    <Shot23>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot23>
+    <Shot24>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot24>
+    <Shot25>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot25>
+    <Shot26>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot26>
+    <Shot27>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot27>
+    <Shot28>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot28>
+    <Shot29>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot29>
+    <Shot30>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot30>
+    <Shot31>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot31>
+    <Shot32>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot32>
+    <Shot33>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot33>
+    <Shot34>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot34>
+    <Shot35>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot35>
+    <Shot36>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot36>
+    <Shot37>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot37>
+    <Shot38>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot38>
+    <Shot39>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot39>
+    <Shot40>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot40>
+    <Shot41>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot41>
+    <Shot42>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot42>
+    <Shot43>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot43>
+    <Shot44>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot44>
+    <Shot45>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot45>
+    <Shot46>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot46>
+    <Shot47>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot47>
+    <Shot48>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot48>
+    <Shot49>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot49>
+    <Shot50>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot50>
+    <Shot51>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot51>
+    <Shot52>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot52>
+    <Shot53>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot53>
+    <Shot54>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot54>
+    <Shot55>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot55>
+    <Shot56>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot56>
+    <Shot57>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot57>
+    <Shot58>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot58>
+    <Shot59>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot59>
+    <Shot60>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot60>
+    <Shot61>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot61>
+    <Shot62>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot62>
+    <Shot63>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot63>
+    <Shot64>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot64>
+    <Shot65>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot65>
+    <Shot66>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot66>
+    <Shot67>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot67>
+    <Shot68>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot68>
+    <Shot69>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot69>
+    <Shot70>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot70>
+    <Shot71>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot71>
+    <Shot72>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot72>
+    <Shot73>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot73>
+    <Shot74>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot74>
+    <Shot75>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot75>
+    <Shot76>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot76>
+    <Shot77>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot77>
+    <Shot78>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot78>
+    <Shot79>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot79>
+    <Shot80>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot80>
+    <Shot81>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot81>
+    <Shot82>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot82>
+    <Shot83>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot83>
+    <Shot84>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot84>
+    <Shot85>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot85>
+    <Shot86>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot86>
+    <Shot87>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot87>
+    <Shot88>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot88>
+    <Shot89>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot89>
+    <Shot90>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot90>
+    <Shot91>
+        <TransmitElementNum>32</TransmitElementNum>
+        <TransmitDelay>0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000</TransmitDelay>
+        <ReceiveElementNum>16</ReceiveElementNum>
+        <ReceiveFocalPointNum>3</ReceiveFocalPointNum>
+        <ReceiveDelay1>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay1>
+        <ReceiveDelay2>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay2>
+        <ReceiveDelay3>0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000 0.010000</ReceiveDelay3>
+        <ReceiveTotalFocalTime>10.300000 10.300000 10.300000</ReceiveTotalFocalTime>
+    </Shot91>
 </root>
